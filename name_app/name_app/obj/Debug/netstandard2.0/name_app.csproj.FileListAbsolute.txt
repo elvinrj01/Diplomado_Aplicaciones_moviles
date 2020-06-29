@@ -1,0 +1,14 @@
+C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\name_app\name_app\bin\Debug\netstandard2.0\name_app.deps.json
+C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\name_app\name_app\bin\Debug\netstandard2.0\name_app.dll
+C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\name_app\name_app\bin\Debug\netstandard2.0\ref\name_app.dll
+C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\name_app\name_app\bin\Debug\netstandard2.0\name_app.pdb
+C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\name_app\name_app\obj\Debug\netstandard2.0\name_app.csprojAssemblyReference.cache
+C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\name_app\name_app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\name_app\name_app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\name_app\name_app\obj\Debug\netstandard2.0\name_app.AssemblyInfoInputs.cache
+C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\name_app\name_app\obj\Debug\netstandard2.0\name_app.AssemblyInfo.cs
+C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\name_app\name_app\obj\Debug\netstandard2.0\name_app.csproj.CoreCompileInputs.cache
+C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\name_app\name_app\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\name_app\name_app\obj\Debug\netstandard2.0\name_app.dll
+C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\name_app\name_app\obj\Debug\netstandard2.0\ref\name_app.dll
+C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\name_app\name_app\obj\Debug\netstandard2.0\name_app.pdb
