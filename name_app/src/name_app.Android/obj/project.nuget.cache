@@ -1,10 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "4rxfyLha9VDo5FTq/A/RIfKmXxtJaw2IvxOXmF115UaHwGZotOErtrzqmbHtYXnHaNYAMjCy19Q30RuZjvhHGQ==",
+  "dgSpecHash": "HrIWI1eUa3qIuoTNXWOrJJWrUrgH3eeKx2NSVhj86yeaRM5G2pJWgJ61OtVu9zXPpvjaQWymaLrg9NAVv1hySw==",
   "success": true,
   "projectFilePath": "C:\\Users\\ElvinReyes\\Desktop\\DIPLOMADO APLICACIONES MOVILES\\GIT\\name_app\\src\\name_app.Android\\name_app.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ElvinReyes\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
     "C:\\Users\\ElvinReyes\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
