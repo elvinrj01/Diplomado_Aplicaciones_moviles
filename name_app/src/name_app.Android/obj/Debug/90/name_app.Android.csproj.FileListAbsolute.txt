@@ -481,9 +481,7 @@ C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\bin\Debug\com.companyname.name_app-Signed.aab
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\bin\Debug\com.companyname.name_app-Signed.apk
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\bin\Debug\name_app.dll
-C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\bin\Debug\Project.Model.dll
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\bin\Debug\name_app.pdb
-C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\bin\Debug\Project.Model.pdb
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\build.props
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\adb.props
@@ -557,8 +555,6 @@ C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\android\assets\name_app.dll
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\android\assets\name_app.pdb
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\android\assets\netstandard.dll
-C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\android\assets\Project.Model.dll
-C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\android\assets\Project.Model.pdb
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.dll
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\android\assets\System.Core.dll
@@ -954,10 +950,4 @@ C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\bin\Debug\Project.Infrastructure.dll
-C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\bin\Debug\Project.Infrastructure.pdb
-C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\android\assets\Project.Infrastructure.dll
-C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\android\assets\Project.Infrastructure.pdb
-C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\android\assets\System.ComponentModel.Annotations.dll
-C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\android\assets\System.ComponentModel.DataAnnotations.dll
-C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\android\assets\System.ComponentModel.DataAnnotations.pdb
+C:\Users\ElvinReyes\Desktop\DIPLOMADO APLICACIONES MOVILES\GIT\name_app\src\name_app.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll

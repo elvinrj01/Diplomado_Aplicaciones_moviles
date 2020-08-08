@@ -11,7 +11,7 @@ namespace name_app
         {
             InitializeComponent();
 
-            MainPage = new SecondApp();
+            MainPage = new TablaAmortizacion();
         }
 
         protected override void OnStart()
