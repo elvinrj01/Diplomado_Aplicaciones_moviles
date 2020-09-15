@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App.Views.PendingWorkDetails">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Work details" 
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center" />
+            <Label />
+
+            <Label Text="Title" />
+            <Entry x:Name="titleText"
+                   Keyboard="Text"
+                   IsEnabled="false"/>
+
+            <Label Text="Description" />
+            <Entry x:Name="descriptionText"
+                   Keyboard="Text"
+                   IsEnabled="false"/>
+
+            <Label Text="Date" />
+            <Entry x:Name="dateText"
+                   Keyboard="Text"
+                   IsEnabled="false"/>
+
+            <Label Text="Pending Days" />
+            <Entry x:Name="pendingDaysText"
+                   Keyboard="Text"
+                   IsEnabled="false"/>
+
+            <Button Text="Mark as completed" 
+                   Clicked="Button_Clicked"
+                    HorizontalOptions="Center"
+                    WidthRequest="200"
+                    BackgroundColor="Blue"
+                    TextColor="white"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

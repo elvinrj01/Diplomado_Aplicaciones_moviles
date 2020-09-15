@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="name_app.Views.LoginView">
+    <ContentPage.Padding>
+        <OnPlatform
+            x:TypeArguments="Thickness">
+            <OnPlatform.Platforms>
+                <On
+                    Platform="iOS"
+                    Value="10, 10, 10, 50" />
+                <On
+                    Platform="Android"
+                    Value="10, 10, 10, 20" />
+            </OnPlatform.Platforms>
+        </OnPlatform>
+    </ContentPage.Padding>
+    <ContentPage.Content>
+        <StackLayout>
+            <Image HorizontalOptions="CenterAndExpand"
+                   VerticalOptions="Start"
+                   Source="logo_uteco.png"
+                   WidthRequest="200"
+                   HeightRequest="200"/>
+
+            <Entry x:Name="usernameText"
+                   Keyboard="Text"
+                   Placeholder="User name" />
+
+            <Entry x:Name="passwordText"
+                   Keyboard="Text"
+                   Placeholder="Password"
+                   IsPassword="True"/>
+
+            <Button Text="Sign in" 
+                    Clicked="Button_Clicked"
+                    HorizontalOptions="Center"
+                    WidthRequest="200"
+                    BackgroundColor="Blue"
+                    TextColor="white"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

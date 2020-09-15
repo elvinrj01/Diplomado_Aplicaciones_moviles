@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="App.Views.PendingWorksView">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Pending works list"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <ListView x:Name="worksListView"
+                      HasUnevenRows="True"
+                      SelectedItem="{Binding WorksListSelected}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <StackLayout Orientation="Vertical">
+                                    <Label Text="{Binding Title}" FontSize="Body" />
+                                    <Label Text="{Binding Description}" FontSize="Body" TextColor="DarkGray"/>
+                                    <Label Text="{Binding Date}" FontSize="Small" TextColor="Black" HorizontalOptions="End"/>
+                                    <Label Text="View details..." />
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
